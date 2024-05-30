@@ -1,0 +1,2 @@
+# EthereumBot
+Ethereum Mining Bot
